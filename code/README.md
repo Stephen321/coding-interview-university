@@ -3,8 +3,9 @@
 *Move to a seperate repos...*
 
 #### Layout  
-- Seperate folders per data structure, algorithm, etc   *(only headers and src files)*  
-- sfmldemo is for an overall visual demo of everything. *(move to a seperate repos?)*  
+- *coding-interview-university* contains seperate folders per data structure, algorithm, etc from the github page  *(only headers and src files)*  
+- *books* contains folder seperated code for any implementations/testing from the book list
+- *sfmldemo* is for an overall visual demo of everything demoable. *(move to a seperate repos?)*  
 
 #### Testing  
 - Debug and profiling: http://valgrind.org/docs/manual/quick-start.html   
