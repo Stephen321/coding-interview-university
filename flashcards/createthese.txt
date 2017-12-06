@@ -1,0 +1,11 @@
+While reading through the different books and implementing different containers/algorithms there will be information you need flash cards on.
+
+Approach: Read a chapter of a book first or look at videos, then later reread or skim it and pull out the important info into flash cards.
+
+Note: this notepad notes of *some* of the stuff you still have to make cards on
+---------------------------------------------------------------------------------------------------------------
+
+
+write great code volume 1: understanding the machine:
+	chapter 2:
+		sign extension and contraction (converting between 16 bit and 8 bit numbers)
