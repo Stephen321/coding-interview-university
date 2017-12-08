@@ -1,11 +1,24 @@
 While reading through the different books and implementing different containers/algorithms there will be information you need flash cards on.
 
-Approach: Read a chapter of a book first or look at videos, then later reread or skim it and pull out the important info into flash cards.
+Approach: Read a chapter of a book first or look at videos, then later reread or skim it and pull out the important info into flash cards. 
+Reguraly look at these flash cards.
 
-Note: this notepad notes of *some* of the stuff you still have to make cards on
+Note: this notepad notes of *some* of the stuff you still have to make cards on. Some of this may be repeated.
 ---------------------------------------------------------------------------------------------------------------
 
 
 write great code volume 1: understanding the machine:
 	chapter 2:
-		sign extension and contraction (converting between 16 bit and 8 bit numbers)
+		low/high order vs least/most significant bit/byte/word
+		word?
+		how to get 2's complement and what it is used for
+		range of numbers for n bits in which you must represent signed numbers vs without
+		0-15 in binary <-> hex
+		powers of 2 from 0 to 32
+		sign/Zero extension and contraction (converting between 16 bit and 8 bit numbers), saturation and why
+			(With the two’s complement system, a single negative value will have
+			different representations depending on size of the representation)
+		BCD
+		fixed-point representation and floating-point representation.
+		Scaled Numeric Formats, Rational Representation
+	chapter 3: BINARY ARITHMETIC AND BIT OPERATIONS

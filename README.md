@@ -305,6 +305,9 @@ If short on time:
         - Chapter 10 - Instruction Set Architecture
         - Chapter 11 - Memory Architecture and Organization
 
+- [ ] [The Art of Assembly Language](https://www.amazon.co.uk/Art-Assembly-Language-Randall-Hyde/dp/1593272073)
+    - *This book was mentioned in Write Great Code and may be of interest to you.
+
 If you have more time (I want this book):
 
 - [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
